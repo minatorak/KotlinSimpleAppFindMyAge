@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinSimpleAppFindMyAge</string>
+    <string name="txt_inputAge">Your year birthday</string>
+    <string name="tv_showAge">Your Age</string>
+    <string name="btn_Enter">Enter</string>
+</resources>
